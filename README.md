@@ -1,5 +1,5 @@
 # TicTacToe-CollectionView
-## An Simple iOS Game Tic Tac Toi
+## An Simple iOS Game Tic Tac Toe
 ## Used UIelements
 - UILabel
 - UIButton
@@ -7,4 +7,4 @@
 - UITableView
 - UIAlertController
   
-##Output
+## Output
